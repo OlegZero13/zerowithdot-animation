@@ -4,7 +4,9 @@ Author: Oleg Żero (https://zerowithdot.com)
 ![](ozero-animation.png)
 
 Since you are looking at this repository, I trust you would like to use this code as a starting point for your own animation.
-By all means! Feel free to do whatever you want with it, but I would appreciate if you give me some feedback or put a reference in your blog or wherever is that you use it. Thanks
+By all means! Feel free to do whatever you want with it, but I would appreciate if you give me some feedback or put a reference in your blog or wherever is that you use it. Thanks.
+
+To see it live, go: [zerowithdot.com](https://zerowithdot.com).
 
 ## Getting started
 The description below explains the necessary steps you need to take to adapt this code to your needs.
