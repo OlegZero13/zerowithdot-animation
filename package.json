@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "eslint": "^6.2.0",
+    "eslint-loader": "^2.2.1",
+    "imports-loader": "^0.8.0",
+    "json-loader": "^0.5.7",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "three": "^0.107.0"
+  }
+}
